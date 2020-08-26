@@ -1,5 +1,5 @@
 # Text_Summarizer
-It can summarize any text corpus
+It can summarize any text corpus using BERT. 
 
 ***Put in any text and get the summary***
 
